@@ -7,6 +7,9 @@
         <module>eureka-server-center</module>
         <module>eureka-provider</module>
         <module>eureka-discovery</module>
+        <module>eureka-feign</module>
+        <module>eureka-provider-2</module>
+        <module>eureka-provider-back</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
