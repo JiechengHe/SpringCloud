@@ -10,6 +10,7 @@
         <module>eureka-feign</module>
         <module>eureka-provider-2</module>
         <module>eureka-provider-back</module>
+        <module>eureka-ribbon</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
